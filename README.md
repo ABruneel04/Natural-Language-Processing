@@ -1,2 +1,3 @@
 # Natural-Language-Processing
-CMSI 5370
+
+Projects and works from Natural Language Processing (Python)
